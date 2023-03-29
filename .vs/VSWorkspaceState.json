@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\assets",
+    "\\app\\assets\\images",
+    "\\app\\views",
+    "\\app\\views\\shared"
+  ],
+  "SelectedNode": "\\app\\views\\shared\\_navbar.html.erb",
+  "PreviewInSolutionExplorer": false
+}
